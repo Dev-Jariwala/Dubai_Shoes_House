@@ -51,6 +51,11 @@ nav ul li a {
     color: var(--secondary-color);
 }
 
+nav ul li a:hover{
+    /* font-size: 26px;      */
+    font-weight: 900;
+}
+
 nav .title a {
     text-decoration: none;
 }
